@@ -1,4 +1,4 @@
-CLI=adm
+CLI=/root/adm
 RESOURCE_PATH=./resource
 ASSETS_PATH=./resource/assets
 SEPARATION_PATH=./separation

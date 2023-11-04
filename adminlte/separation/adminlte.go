@@ -7,8 +7,8 @@ import (
 	adminTemplate "github.com/GoAdminGroup/go-admin/template"
 	"github.com/GoAdminGroup/go-admin/template/components"
 	"github.com/GoAdminGroup/go-admin/template/types"
-	"github.com/GoAdminGroup/themes/adminlte/resource"
-	"github.com/GoAdminGroup/themes/common"
+	"github.com/NoneShen/themes/adminlte/resource"
+	"github.com/NoneShen/themes/common"
 )
 
 type Theme struct {
